@@ -1,4 +1,4 @@
-package com.techproed.springboot_demo;
+package com.techproed.springboot_demo1;
 
 public class Battery {
 	
